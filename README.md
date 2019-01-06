@@ -15,6 +15,8 @@ For a production build run:
 
 `yarn build`
 
+If built, game can be played from `index.html` in the `dist` folder
+
 ### Tools
 Bulma.io for quick styling
 
@@ -35,3 +37,4 @@ Parcel for quick bundling
 - add to score per each eating
 - make the snake move faster the longer he gets
 - create leaderboard
+- add unit tests
